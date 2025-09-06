@@ -1,0 +1,7 @@
+📦 Packages Used
+
+time ⏱️
+A built-in Python module used for handling time-related tasks. In this project, it is used to measure the start and end time of typing to calculate the total time taken.
+
+random 🎲
+A built-in Python module used to generate random numbers or select random elements. Here, it is used to pick a random sentence from a predefined list for the typing test.
